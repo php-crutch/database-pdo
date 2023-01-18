@@ -1,6 +1,6 @@
-# crutch/database
+# crutch/database-pdo
 
-Database log decorator
+Database PDO implementation
 
 # Install
 
