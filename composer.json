@@ -1,0 +1,16 @@
+{
+  "name": "crutch/database-pdo",
+  "type": "library",
+  "description": "database PDO implementation",
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "ext-pdo": "*",
+    "crutch/database": "^1.0"
+  },
+  "license": ["MIT"],
+  "autoload": {
+    "psr-4": {
+      "Crutch\\DatabasePdo\\": "src/"
+    }
+  }
+}
